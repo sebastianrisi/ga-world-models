@@ -1,0 +1,4 @@
+argparse
+gym[all]
+box2d
+numpy
